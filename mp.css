@@ -1,0 +1,136 @@
+*{
+  font-family: arial;
+  margin: 0;
+  color: white;
+}
+
+#sob{
+  width: 500px;
+}
+
+#top {
+ align-items: baseline;
+}
+
+table {
+  text-align: center;
+  margin: auto;
+}
+
+.navbar-nav {
+  color: white;
+}
+
+#prog {
+padding: 30px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    
+  }
+  
+  .flex-container > div {
+    margin: 30px;
+    padding: 10px;
+    font-size: 10px;
+  } 
+
+  #a1,#a2 {
+    margin: 10px;
+  }
+
+.pm, .pm2 {
+  margin: auto;
+  width: 500px;
+}
+
+  #m1,#m2,#m3 {
+    margin: 5px;
+    height: 40px;
+  }
+
+  #ctt1,#ctt2,#ctt3,#ctt4 {
+    margin: 10px;
+  }
+
+  #ctt0 {
+    padding: 10px;
+  }
+
+  textarea {
+    border: 2px solid;
+  }
+
+  #rodape {
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+  }
+
+  #cabeca {
+    background-color: black;
+    color: white;
+  }
+
+
+
+  .cabeca {
+    padding: 5px;
+  }
+
+  #meio,#meio2 {
+    padding: 20px;
+  }
+
+  #mt {
+    margin: auto;
+    width: 700px;
+    padding: 10px;
+  }
+
+  .tm,.im,.pm,.tm2,.im2,.pm2 {
+    padding: 10px;
+  }
+
+  .mt, #a1, #a2 {
+    margin: 20px;
+  }
+
+  body {
+    color: white;
+    background: url('/img/Design\ sem\ nome.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+  }
+
+  label {
+    color: black;
+  }
+
+.form-personalizado{
+  margin: 50px;
+}
+
+#forms {
+ margin: auto;
+  width: 700px;
+}
+
+.form-group {
+  padding: 25px;
+}
+
+nav{
+  background-color: rgba(0, 0, 0, 0.445);
+}
+
+#certificados{
+  text-align: center;
+}
